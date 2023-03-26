@@ -1,1 +1,33 @@
 <h1> hello </h1>
+
+
+
+<table>
+<thead>
+    <tr>
+      <th colspan="5" style="text-align:center">Πίνακας 1</th>
+    </tr>
+    <td colspan="5" style="text-align:center">
+      Μαθήματα Προπτυχιακού Προγράμματος Σπουδών <u> με διδασκαλία </u> στην αγγλική γλώσσα και εξέταση φοιτητών είτε με γραπτή εξέταση είτε με απαλλακτική εργασία διατυπωμένη στην αγγλική γλώσσα
+    </td>
+    <tr>
+      <th width="10%" style="text-align:center">  Α/Α </th>
+      <th style="text-align:center">  Τίτλος Μαθήματος  </th>
+      <th style="text-align:center">      Εξάμηνο       </th>
+      <th style="text-align:center">      Κωδικός       </th>
+      <th style="text-align:center">      Μονάδες<br>
+                                          ECTS          </th>
+    </tr>
+</thead>
+  <tbody>
+    {% for person in site.data.erasmus.table1 %}
+      <tr>
+        <td style="text-align:center">{{ person.AA }}</td>
+        <td style="text-align:center">{{ person.title }}</td>
+        <td style="text-align:center">{{ person.semester }}</td>
+        <td style="text-align:center">{{ person.code }}</td>
+        <td style="text-align:center">{{ person.ects }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
