@@ -1,0 +1,169 @@
+table1:
+  - AA: 1
+    title: <a href='/courses/data-structures/'>Δομές Δεδομένων</a>
+    semester: Β΄
+    code: ΗΥ120
+    ects: 6
+  - AA: 2
+    title: <a href='/courses/applied-programming-python/'>Εφαρμοσμένος Προγραμματισμός με Python</a>
+    semester: Β΄
+    code: ΗΥ135
+    ects: 6
+  - AA: 3
+    title: <a href='/courses/databases1/'>Βάσεις Δεδομένων Ι</a>
+    semester: Δ´
+    code: ΗΥ300
+    ects: 6
+  - AA: 4
+    title: <a href='/courses/computation-theory/'>Θεωρία Υπολογισμού</a>
+    semester: Δ´
+    code: HY-025
+    ects: 6
+  - AA: 5
+    title: <a href='/courses/databases2/'>Βάσεις Δεδομένων ΙΙ</a>
+    semester: E´
+    code: ΗΥ301
+    ects: 6
+  - AA: 6
+    title: <a href='/courses/quantum-dna-computing/'>Μοντέλα Κβαντικού και Μοριακού Υπολογισμού</a>
+    semester: E´
+    code: ΗΥ675
+    ects: 6
+  - AA: 7
+    title: <a href='/courses/info-privacy-policies-and-enhancing-tech/'>Πολιτικές και Τεχνολογίες Προστασίας της Ιδιωτικότητας</a>
+    semester: E´
+    code: ΗΥ365
+    ects: 6 
+  - AA: 8
+    title: <a href='/courses/multimedia/'>Πολυμέσα</a>
+    semester: E´
+    code: ΗΥ630
+    ects: 6
+  - AA: 9
+    title: <a href='/courses/information-retrieval/'>Ανάκτηση Πληροφορίας</a>
+    semester: ΣΤ´
+    code: ΗΥ340
+    ects: 6
+  - AA: 10
+    title: <a href='/courses/ccns/'>Ασφάλεια Δικτύων Υπολογιστών και Επικοινωνιών</a>
+    semester: ΣΤ´
+    code: ΗΥ225
+    ects: 6 
+  - AA: 11
+    title: <a href='/courses/graph-theory-and-applications/'>Θεωρία Γραφημάτων και Εφαρμογές</a>
+    semester: ΣΤ´
+    code: ΗΥ642
+    ects: 6
+  - AA: 12
+    title: <a href='/courses/distributed-network-systems/'>Κατανεμημένα Δικτυοκεντρικά Συστήματα</a>
+    semester: ΣΤ´
+    code: ΗΥ260
+    ects: 6
+  - AA: 13
+    title: <a href='/courses/software-security/'>Ασφάλεια Λογισμικού και Εφαρμογών</a>
+    semester: Z´
+    code: ΗΥ230
+    ects: 6
+  - AA: 14
+    title: <a href='/courses/big-data-management-technologies/'>Διαχείριση Μεγάλου Όγκου Δεδομένων στο Διαδίκτυο</a>
+    semester: Z´
+    code: ΗΥ385
+    ects: 6  
+  - AA: 15
+    title: <a href='/courses/specialized-algorithm-topics/'>Εξειδικευμένα Θέματα Αλγορίθμων</a>
+    semester: Z´
+    code: ΗΥ760
+    ects: 6
+  - AA: 16
+    title: <a href='/courses/computer-system-performance/'>Επίδοση Υπολογιστικών Συστημάτων</a>
+    semester: Z´
+    code: ΗΥ770
+    ects: 6
+  - AA: 17
+    title: <a href='/courses/data-science/'>Επιστήμη των Δεδομένων</a>
+    semester: Z´
+    code: ΗΥ390
+    ects: 6
+  - AA: 18
+    title: <a href='/courses/social-and-legal-issues-of-icts/'>Κοινωνικά και Νομικά Θέματα των ΤΠΕ</a>
+    semester: Z´
+    code: ΘΕ700
+    ects: 6
+  - AA: 19
+    title: <a href='/courses/entertainment-technology-software-and-virtual-worlds/'>Τεχνολογία Ψυχαγωγικού Λογισμικού και Εικονικοί Κόσμοι</a>
+    semester: Z´
+    code: ΗΥ710
+    ects: 6
+  - AA: 20
+    title: <a href='/courses/smart-technologies-and-applications/'>Έξυπνα Περιβάλλοντα και Εφαρμογές</a>
+    semester: Η´
+    code: ΗΥ600
+    ects: 6
+  - AA: 21
+    title: <a href='/courses/speech-processing/'>Επεξεργασία Ομιλίας και Ήχου</a>
+    semester: Η´
+    code: ΗΥ730
+    ects: 6
+  - AA: 22
+    title: <a href='/courses/compilers/'>Μεταγλωττιστές</a>
+    semester: Η´
+    code: ΗΥ150
+    ects: 6
+  - AA: 23
+    title: <a href='/courses/parallel-programming/'>Παράλληλος Προγραμματισμός</a>
+    semester: Η´
+    code: ΗΥ550
+    ects: 6
+  - AA: 24
+    title: <a href='/courses/semantic-and-social-web/'>Σημασιολογικός και Κοινωνικός Ιστός</a>
+    semester: Η´
+    code: ΗΥ750
+    ects: 6
+  - AA: 25
+    title: <a href='/courses/information-systems-security-management/'>Διοίκηση Ασφάλειας Πληροφοριακών Συστημάτων</a>
+    semester: Η´
+    code: ΗΥ360
+    ects: 6
+    
+table2:
+  - AA: 1
+    title: <a href='/courses/algorithms/'>Αλγόριθμοι</a>
+    semester: Δ´
+    code: ΗΥ020
+    ects: 6
+  - AA: 2
+    title: <a href='/courses/cscw/'>Κινητά και κοινωνικά μέσα</a>
+    semester: Δ´
+    code: HY665
+    ects: 6
+  - AA: 3
+    title: <a href='/courses/health-analytics/'>Αναλυτική Δεδομένων Υγείας</a>
+    semester: E´
+    code: ΗΥ375
+    ects: 6
+  - AA: 4
+    title: <a href='/courses/data-visualization/'>Οπτικοποίηση της Πληροφορίας</a>
+    semester: E´
+    code: ΗΥ645
+    ects: 6
+  - AA: 5
+    title: <a href='/courses/bioinformatics/'>Βιοπληροφορική</a>
+    semester: ΣΤ´
+    code: ΗΥ715
+    ects: 6
+  - AA: 6
+    title: <a href='/courses/internet-technologies/'>Τεχνολογίες διαδικτύου</a>
+    semester: ΣΤ´
+    code: ΗΥ270
+    ects: 6
+  - AA: 7
+    title: <a href='/courses/data-mining-and-data-warehousing/'>Αποθήκες και Εξόρυξη Δεδομένων</a>
+    semester: Η´
+    code: ΗΥ380
+    ects: 6
+  - AA: 8
+    title: <a href='/courses/management-of-it-projects/'>Διαχείριση Έργων Πληροφορικής</a>
+    semester: Η´
+    code: ΔΟ500
+    ects: 6
+ 
